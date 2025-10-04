@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Flutter dependencies (if Flutter)
+.flutter-plugins
+.packages
+.idea/
+
+# Environment variables / secrets
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional build outputs
+dist/
+build/
